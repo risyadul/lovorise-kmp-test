@@ -2,6 +2,14 @@
 
 A redesigned **Discover/Home** experience for the Lovorise mobile app, built with **Kotlin + Compose Multiplatform** so the entire UI, data and recommendation logic ship to **Android and iOS from one shared codebase**. The goal: keep the Lovorise design language (sampled directly from the production app) while fixing the usability gaps of the current Discover module and turning it into a richer, content-first feed.
 
+| Home (For You) | Recommendations | Story Viewer (2/6) | Search |
+|---|---|---|---|
+| ![Home](docs/screenshots/home_feed_media.png) | ![Recs](docs/screenshots/profile_recommendations.png) | ![Story](docs/screenshots/story_viewer_2of6.png) | ![Search](docs/screenshots/search_filtering.png) |
+
+**One codebase, two platforms** — the exact same `commonMain` UI running on an iPhone 16 Pro simulator:
+
+<img src="docs/screenshots/ios_home_feed.png" width="270" alt="iOS home feed">
+
 ---
 
 ## 1. UX review of the current Discover
@@ -125,6 +133,12 @@ open iosApp/iosApp.xcodeproj
 - `RecommendationEngineTest` — ranking order across location/interest/activity signals, reason generation, connected-user exclusion, interleaving positions, post ranking with tag bonus.
 - `UserSearchFilterTest` — case-insensitive matching across name, city, bio and interests; blank/no-match handling.
 - `DiscoverRepositoryTest` — feed-key uniqueness across pages, recommendation rotation over page boundaries, uniform page size, the Connections data-layer query, warm-up atomicity on partial failures, and message/story-save session state.
+
+## 7. Screenshots
+
+| Skeleton loading | Connections tab | Message request | Story reaction |
+|---|---|---|---|
+| ![Skeleton](docs/screenshots/skeleton_loading.png) | ![Connections](docs/screenshots/connections_tab.png) | ![Sheet](docs/screenshots/message_request_sheet.png) | ![Reaction](docs/screenshots/story_reaction.png) |
 
 ---
 
