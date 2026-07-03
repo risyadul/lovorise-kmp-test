@@ -1,0 +1,91 @@
+{
+  "stories": [
+    {
+      "id": "s1",
+      "userId": "u1",
+      "postedMinutesAgo": 18,
+      "images": [
+        "https://picsum.photos/seed/lovs1a/900/1600",
+        "https://picsum.photos/seed/lovs1b/900/1600",
+        "https://picsum.photos/seed/lovs1c/900/1600",
+        "https://picsum.photos/seed/lovs1d/900/1600",
+        "https://picsum.photos/seed/lovs1e/900/1600",
+        "https://picsum.photos/seed/lovs1f/900/1600"
+      ]
+    },
+    {
+      "id": "s2",
+      "userId": "u13",
+      "postedMinutesAgo": 12,
+      "images": [
+        "https://picsum.photos/seed/lovs2a/900/1600",
+        "https://picsum.photos/seed/lovs2b/900/1600",
+        "https://picsum.photos/seed/lovs2c/900/1600",
+        "https://picsum.photos/seed/lovs2d/900/1600"
+      ]
+    },
+    {
+      "id": "s3",
+      "userId": "u6",
+      "postedMinutesAgo": 65,
+      "images": [
+        "https://picsum.photos/seed/lovs3a/900/1600",
+        "https://picsum.photos/seed/lovs3b/900/1600",
+        "https://picsum.photos/seed/lovs3c/900/1600"
+      ]
+    },
+    {
+      "id": "s4",
+      "userId": "u3",
+      "postedMinutesAgo": 42,
+      "images": [
+        "https://picsum.photos/seed/lovs4a/900/1600"
+      ]
+    },
+    {
+      "id": "s5",
+      "userId": "u5",
+      "postedMinutesAgo": 90,
+      "images": [
+        "https://picsum.photos/seed/lovs5a/900/1600",
+        "https://picsum.photos/seed/lovs5b/900/1600"
+      ]
+    },
+    {
+      "id": "s6",
+      "userId": "u9",
+      "postedMinutesAgo": 130,
+      "images": [
+        "https://picsum.photos/seed/lovs6a/900/1600"
+      ]
+    },
+    {
+      "id": "s7",
+      "userId": "u11",
+      "postedMinutesAgo": 150,
+      "images": [
+        "https://picsum.photos/seed/lovs7a/900/1600",
+        "https://picsum.photos/seed/lovs7b/900/1600",
+        "https://picsum.photos/seed/lovs7c/900/1600",
+        "https://picsum.photos/seed/lovs7d/900/1600",
+        "https://picsum.photos/seed/lovs7e/900/1600"
+      ]
+    },
+    {
+      "id": "s8",
+      "userId": "u8",
+      "postedMinutesAgo": 240,
+      "images": [
+        "https://picsum.photos/seed/lovs8a/900/1600"
+      ]
+    },
+    {
+      "id": "s9",
+      "userId": "u7",
+      "postedMinutesAgo": 300,
+      "images": [
+        "https://picsum.photos/seed/lovs9a/900/1600"
+      ]
+    }
+  ]
+}

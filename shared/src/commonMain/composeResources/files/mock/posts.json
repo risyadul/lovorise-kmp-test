@@ -1,0 +1,172 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "authorId": "u1",
+      "imageUrl": "https://picsum.photos/seed/lovp1/900/1125",
+      "caption": "Golden hour from the Kemang rooftop. Someone told me the coffee here is overrated — debate me over a cup? ☕✨",
+      "tags": ["Coffee", "Jakarta"],
+      "location": "Kemang, Jakarta",
+      "postedMinutesAgo": 24,
+      "reactions": 1284,
+      "shares": 96,
+      "saves": 231
+    },
+    {
+      "id": "p2",
+      "authorId": "u6",
+      "imageUrl": "https://picsum.photos/seed/lovp2/900/1125",
+      "caption": "Found a tiny vinyl listening bar hidden behind a laundry. Jakarta never runs out of secrets 🎶",
+      "tags": ["Live Music", "Hidden Gems"],
+      "location": "Blok M, Jakarta",
+      "postedMinutesAgo": 58,
+      "reactions": 862,
+      "shares": 74,
+      "saves": 189
+    },
+    {
+      "id": "p3",
+      "authorId": "u5",
+      "imageUrl": "https://picsum.photos/seed/lovp3/900/1125",
+      "caption": "Sunrise mission: on the trail at 4:50 AM. Cold hands, warm heart, zero regrets 🌋",
+      "tags": ["Hiking", "Travel"],
+      "location": "Kaliurang, Yogyakarta",
+      "postedMinutesAgo": 130,
+      "reactions": 1937,
+      "shares": 152,
+      "saves": 411
+    },
+    {
+      "id": "p4",
+      "authorId": "u3",
+      "imageUrl": "https://picsum.photos/seed/lovp4/900/1125",
+      "caption": "Weekend recipe: indie playlist + rain + a slow pour over. Anyone else romanticising Bandung today?",
+      "tags": ["Coffee", "Live Music"],
+      "location": "Dago, Bandung",
+      "postedMinutesAgo": 95,
+      "reactions": 540,
+      "shares": 31,
+      "saves": 87
+    },
+    {
+      "id": "p5",
+      "authorId": "u9",
+      "imageUrl": "https://picsum.photos/seed/lovp5/900/1125",
+      "caption": "Salt in my hair, zero notifications, full heart. Canggu taught me how to slow down 🌊",
+      "tags": ["Surfing", "Travel"],
+      "location": "Canggu, Bali",
+      "postedMinutesAgo": 260,
+      "reactions": 1512,
+      "shares": 118,
+      "saves": 344
+    },
+    {
+      "id": "p6",
+      "authorId": "u13",
+      "imageUrl": "https://picsum.photos/seed/lovp6/900/1125",
+      "caption": "Karaoke night status: strangers at 8 PM, chorus buddies by 11. 10/10 would duet again 🎤",
+      "tags": ["Karaoke", "Live Music"],
+      "location": "Senayan, Jakarta",
+      "postedMinutesAgo": 41,
+      "reactions": 731,
+      "shares": 49,
+      "saves": 66
+    },
+    {
+      "id": "p7",
+      "authorId": "u8",
+      "imageUrl": "https://picsum.photos/seed/lovp7/900/1125",
+      "caption": "60 km loop finished before breakfast. Es kopi susu earned. Who's in for next Sunday?",
+      "tags": ["Cycling", "Coffee"],
+      "location": "BSD, Tangerang",
+      "postedMinutesAgo": 175,
+      "reactions": 428,
+      "shares": 22,
+      "saves": 58
+    },
+    {
+      "id": "p8",
+      "authorId": "u4",
+      "imageUrl": "https://picsum.photos/seed/lovp8/900/1125",
+      "caption": "Streetball till the court lights gave up on us 🏀",
+      "tags": ["Basketball"],
+      "location": "Senayan, Jakarta",
+      "postedMinutesAgo": 300,
+      "reactions": 389,
+      "shares": 18,
+      "saves": 27
+    },
+    {
+      "id": "p9",
+      "authorId": "u11",
+      "imageUrl": "https://picsum.photos/seed/lovp9/900/1125",
+      "caption": "Painted my feelings, then fixed them with nasi goreng gila. Balance. 🎨",
+      "tags": ["Painting", "Foodie"],
+      "location": "Cikini, Jakarta",
+      "postedMinutesAgo": 210,
+      "reactions": 655,
+      "shares": 37,
+      "saves": 121
+    },
+    {
+      "id": "p10",
+      "authorId": "u2",
+      "imageUrl": "https://picsum.photos/seed/lovp10/900/1125",
+      "caption": "Trail report: Gunung Gede is ridiculously green right now. Bring a rain jacket and good company 🌿",
+      "tags": ["Hiking", "Travel"],
+      "location": "Cibodas, West Java",
+      "postedMinutesAgo": 350,
+      "reactions": 977,
+      "shares": 88,
+      "saves": 265
+    },
+    {
+      "id": "p11",
+      "authorId": "u7",
+      "imageUrl": "https://picsum.photos/seed/lovp11/900/1125",
+      "caption": "Dance class dared me to freestyle. I said yes. My knees said maybe 💃",
+      "tags": ["Dancing"],
+      "location": "Surabaya",
+      "postedMinutesAgo": 480,
+      "reactions": 512,
+      "shares": 26,
+      "saves": 44
+    },
+    {
+      "id": "p12",
+      "authorId": "u10",
+      "imageUrl": "https://picsum.photos/seed/lovp12/900/1125",
+      "caption": "Bedroom studio, 3 AM, one more take. This track is about a girl I haven't met yet 🎧",
+      "tags": ["Music Production", "Live Music"],
+      "location": "Bandung",
+      "postedMinutesAgo": 520,
+      "reactions": 803,
+      "shares": 71,
+      "saves": 149
+    },
+    {
+      "id": "p13",
+      "authorId": "u12",
+      "imageUrl": "https://picsum.photos/seed/lovp13/900/1125",
+      "caption": "Meal prep but make it fun: rendang edition. Gains and flavour can coexist 💪",
+      "tags": ["Cooking", "Fitness"],
+      "location": "Medan",
+      "postedMinutesAgo": 660,
+      "reactions": 346,
+      "shares": 15,
+      "saves": 92
+    },
+    {
+      "id": "p14",
+      "authorId": "u14",
+      "imageUrl": "https://picsum.photos/seed/lovp14/900/1125",
+      "caption": "Ranked night with the squad. Clutch or kick? 🎮",
+      "tags": ["Gaming"],
+      "location": "Gading Serpong",
+      "postedMinutesAgo": 720,
+      "reactions": 264,
+      "shares": 12,
+      "saves": 19
+    }
+  ]
+}
